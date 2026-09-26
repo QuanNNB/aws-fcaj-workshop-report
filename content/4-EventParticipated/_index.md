@@ -1,44 +1,21 @@
 ---
 title: "Events Participated"
-date: 2024-01-01
+date: 2026-09-26
 weight: 4
 chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** for your report, including this warning.
-{{% /notice %}}
+# Overview of Participated Events
 
-> In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
-> 
-> Each event should be presented in the format Event 1, Event 2, Event 3…, along with the following details:
-> * Event name
-> * Date and time
-> * Location (if applicable)
-> * Your role in the event (attendee, event support, speaker, etc.)
-> * A brief description of the event’s content and main activities
-> * Outcomes or value gained (lessons learned, new skills, contribution to the team/project)
-> * This listing helps demonstrate your actual participation as well as the soft skills and experience you have gained from each event.
-
-During my internship, I participated in two events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
-
-### [Event 1](4.1-Event1/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
-
-&emsp;**Date & Time:** 09:00, August 13, 2025  
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
-
-&emsp;**Role:** Attendee  
+Throughout my internship and participation in the **First Cloud AI Journey (FCAJ)** program, engaging in technology events, specialized workshops, and hackathons has provided invaluable opportunities to broaden industry knowledge, hone technical soft skills, and learn directly from enterprise engineering case studies.
 
 ---
 
-### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
-
-&emsp;**Date & Time:** 09:00, August 13, 2025  
-
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
-
-&emsp;**Role:** Attendee  
+### [Event 1: Build-a-thon Kickoff - Code the Future with CMC Global](4.1-event1/)
+* **Event Name:** Build-a-thon Kickoff: Code the Future with CMC Global
+* **Date:** September 26, 2026
+* **Organizer:** CMC Global in collaboration with AWS Cloud Community
+* **Keynote Speakers:** Mr. Truong (Tech Lead, CMC Global) & Ms. Nhan (Marketing / HR, CMC Global)
+* **Role:** Attendee
+* **Key Highlights:** Explored global career pathways via CMC Job Fair and analyzed an enterprise case study on deploying an **Autonomous AI Incident Bot** using **Custom Claude Kit** & **Slack Socket Mode** to solve cross-timezone bottlenecks for Australian clients.
